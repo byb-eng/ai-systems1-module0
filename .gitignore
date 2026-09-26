@@ -1,0 +1,7 @@
+
+# 本地环境、数据集及模型缓存
+.venv/
+data/
+.cache/
+__pycache__/
+*.pyc
